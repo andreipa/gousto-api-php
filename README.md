@@ -1,2 +1,2 @@
 # gousto-api-php
-RESTful Web Services with PHP 7
+RESTful Web Services with PHP 7.
