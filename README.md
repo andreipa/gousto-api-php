@@ -6,7 +6,7 @@ Assuming you already have up and running your web server, please follow the step
 * Clone the repo into your WWW folder (localhost)
 * Open your browser using the address: http://YOURLOCALHOST/gousto-api-php/install.php
 
-This process will create a local database [SQLite](https://www.sqlite.org/index.html) with some dammy data.
+This process will create a local database [SQLite](https://www.sqlite.org/index.html) with some dummy data.
 ## How to use
 ### **List all recipes**
 ----
